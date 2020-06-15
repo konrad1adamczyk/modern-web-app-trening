@@ -39,7 +39,7 @@
     <easymock-version>3.1</easymock-version>
     <powermock-version>1.5</powermock-version>
     <commons-lang3-version>3.1</commons-lang3-version>
-    <commons-collections-version>3.2.1</commons-collections-version>
+    <commons-collections-version>3.2.2</commons-collections-version>
     <guava-version>14.0.1</guava-version>
     <querydsl-version>3.2.4</querydsl-version>
     <mongo-java-driver-version>2.11.1</mongo-java-driver-version>
